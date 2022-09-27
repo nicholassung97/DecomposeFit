@@ -8,4 +8,4 @@ In PINNs, the loss function includes both the error produced from the boundary/ 
 
 ![alt text](https://github.com/nicholassung97/DecomposeFit/blob/main/Schematic-of-a-physics-informed-neural-network-PINN-where-the-loss-function-of-PINN.pbm | width=100)
 
-<img src="https://github.com/nicholassung97/DecomposeFit/blob/main/Schematic-of-a-physics-informed-neural-network-PINN-where-the-loss-function-of-PINN.pbm" width="400" height="400">
+<img src="https://github.com/nicholassung97/DecomposeFit/blob/main/Schematic-of-a-physics-informed-neural-network-PINN-where-the-loss-function-of-PINN.pbm" width="600" height="400">
