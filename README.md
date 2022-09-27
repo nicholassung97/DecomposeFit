@@ -6,6 +6,6 @@ This in repository, the intention is to unwrap the ```model.fit()``` function. T
 
 In PINNs, the loss function includes both the error produced from the boundary/ initial conditions and the error from the partial differential equation.
 
-![alt text](https://www.researchgate.net/profile/Zhen-Li-105/publication/335990167/figure/fig1/AS:806502679982080@1569296631121/Schematic-of-a-physics-informed-neural-network-PINN-where-the-loss-function-of-PINN.ppm)
+![alt text](https://github.com/nicholassung97/DecomposeFit/blob/main/Schematic-of-a-physics-informed-neural-network-PINN-where-the-loss-function-of-PINN.pbm)
 
 
